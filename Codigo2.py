@@ -1,2 +1,3 @@
 nombre = "Jorgito"
-print ("hola" + nombre)
+apellido = "Gutiérrez"
+print ("hola" + nombre + apellido)
